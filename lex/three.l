@@ -1,5 +1,5 @@
 %{
-#include<stdio.h>
+     #include<stdio.h>
      int positive_number_count = 0, negative_number_count = 0;
 %}
 %%
